@@ -1,4 +1,4 @@
-"﻿director_name,duration,genres,movie_title,num_voted_users,movie_imdb_link,num_user_for_reviews,language,country,title_year,imdb_score"
+director_name,duration,genres,movie_title,num_voted_users,movie_imdb_link,num_user_for_reviews,language,country,title_year,imdb_score
 "James Cameron,178,Action|Adventure|Fantasy|Sci-Fi,Avatar ,886204,http://www.imdb.com/title/tt0499549/?ref_=fn_tt_tt_1,3054,English,USA,2009,7.9"
 "Gore Verbinski,169,Action|Adventure|Fantasy,Pirates of the Caribbean: At World's End ,471220,http://www.imdb.com/title/tt0449088/?ref_=fn_tt_tt_1,1238,English,USA,2007,7.1"
 "Sam Mendes,148,Action|Adventure|Thriller,Spectre ,275868,http://www.imdb.com/title/tt2379713/?ref_=fn_tt_tt_1,994,English,UK,2015,6.8"
